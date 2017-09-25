@@ -1,3 +1,4 @@
+%AW: Looks good. 1/1.
 %Inclass assignment 5. 
 
 % 1. (a) Write a function that reads in an image and displays it so that 1%
